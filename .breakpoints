@@ -1,0 +1,20 @@
+{
+  "files": {
+    "commands/music/queue.js": [
+      {
+        "id": "7635d2f8-6b4c-451c-9b84-7bcdbc92eaf3",
+        "line": 12,
+        "version": 33,
+        "index": 1686
+      }
+    ],
+    "index.js": [
+      {
+        "id": "e8a3b79e-0c67-4efc-96d6-648fc1095ec8",
+        "line": 1,
+        "version": 636,
+        "index": 0
+      }
+    ]
+  }
+}
