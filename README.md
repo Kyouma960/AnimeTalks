@@ -1,39 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="20%" alt="ANIMETALKS-logo">
-</p>
-<p align="center">
-    <h1 align="center">ANIMETALKS</h1>
-</p>
-<p align="center">
-    <em>Empowering connections, one server at a time.</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Kyouma960/AnimeTalks?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Kyouma960/AnimeTalks?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Kyouma960/AnimeTalks?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Kyouma960/AnimeTalks?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-
-<br>
-
 #####  Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-    - [ Prerequisites](#-prerequisites)
-    - [ Installation](#-installation)
-    - [ Usage](#-usage)
-    - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [ Overview](#overview)
+- [ Features](#features)
+- [ Repository Structure](#repository-structure)
+- [ Modules](#modules)
+- [ Getting Started](#getting-started)
+    - [ Prerequisites](#prerequisites)
+    - [ Installation](#installation)
+    - [ Usage](#usage)
+    - [ Tests](#tests)
+- [ Project Roadmap](#project-roadmap)
+- [ Contributing](#contributing)
+- [ License](#license)
+- [ Acknowledgments](#acknowledgments)
 
 ---
 
@@ -48,12 +27,8 @@ AnimeTalks is an open-source Discord bot project that enhances community engagem
 |    |   Feature         | Description |
 |----|-------------------|---------------------------------------------------------------|
 | ⚙️  | **Architecture**  | This project leverages a modular architecture with dynamically loaded commands and events, enhancing scalability and extensibility. A server component using Express.js facilitates hosting, while Discord bot functionalities are managed through Aoi.js and Discord.js. Various utility commands and music-related features are also implemented. |
-| 🔩 | **Code Quality**  | The codebase demonstrates good quality with proper structuring and separation of concerns. Commands are organized into categories, enhancing readability and maintainability. Code follows consistent styling conventions and leverages external libraries where necessary. |
-| 📄 | **Documentation** | The project includes detailed documentation within the codebase, offering insights into the functionality of various components such as Discord commands, server setup, and database management. Documentation aids in understanding the codebase and facilitates future development and maintenance. |
 | 🔌 | **Integrations**  | Key dependencies include Discord.js for Discord bot interactions, Mangadex API for manga-related features, and various utility libraries for web server functionality and API integrations. These integrations enrich the project's capabilities and enhance user experiences. |
 | 🧩 | **Modularity**    | The codebase exhibits a high degree of modularity, allowing for the dynamic loading of commands and events. This modularity enhances code reusability and maintainability, enabling easy expansion and customization of bot functionalities. |
-| 🧪 | **Testing**       | Testing frameworks and tools used in the project are not explicitly mentioned in the provided details. Consideration for implementing testing suites could further enhance code quality and reliability. |
-| ⚡️  | **Performance**   | Efficiency in handling server requests, Discord bot interactions, and music playback is notable. However, specific performance metrics related to resource usage and response times are not provided. Performance optimization measures could be further explored for enhanced user experiences. |
 | 🛡️ | **Security**      | Security measures such as encrypted tokens, access controls for server endpoints, and secure token management are evident. However, detailed information on specific security protocols and data protection implementations could further strengthen the project's security posture. |
 | 📦 | **Dependencies**  | The project relies on a wide array of external libraries and dependencies for various functionalities, including Discord bot management, API interactions, web server handling, and utility features. Managing dependencies effectively is crucial for ensuring compatibility and stability. |
 
